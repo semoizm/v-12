@@ -123,4 +123,3 @@ class Util {
 }
 
 module.exports = Util;
-// Kerim Yılmaz ɱႦ`ɱЯBaşkan#7777
